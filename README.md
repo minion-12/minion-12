@@ -1,7 +1,7 @@
 ## Hi there  I'm Kiran Priyadarshini👋
 
 <!--
-**minion-12/minion-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**minionA passionate frontend developer from India-12/minion-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
